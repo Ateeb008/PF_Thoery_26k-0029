@@ -1,3 +1,3 @@
 # PF_Thoery_26k-0029
-![image alt](Assignment 1/question 1.zip)
+<br>##Author - Muhammad Ateeb(26k-0029) 
 
