@@ -1,4 +1,5 @@
-
+/*Code by Muhammad Ateeb
+Green house effect monitering system*/
 #include<stdio.h>
 
 #define MAX_SENSORS 10
