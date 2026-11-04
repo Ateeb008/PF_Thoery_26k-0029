@@ -1,3 +1,10 @@
+/* Code by MUhammad Ateeb
+Checking Amicable pairs upto n number
+
+*/
+
+
+
 #include<stdio.h>
 
 int sumOfProperDivisor(int num) {
